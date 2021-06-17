@@ -1,0 +1,6 @@
+name: Gravestone17
+main: com.justinhwang.gravestone17.Gravestone17
+version: 1.0.0
+commands:
+  gravestone:
+    description: enable/disable the Gravestone17 plugin
